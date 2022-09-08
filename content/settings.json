@@ -17,17 +17,17 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "GoDesk" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "Inicio", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Soluciones", "url": "/#features" },
+        { "label": "Precios", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "portal",
+        "label": "Portal GoDesk",
         "url": "/resume"
       },
       "footer": [

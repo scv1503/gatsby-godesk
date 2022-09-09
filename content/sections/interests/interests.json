@@ -10,7 +10,7 @@
     {
       "label": "Gestión de activos",
       "image": {
-        "src": "../../images/joy-stick.png",
+        "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
@@ -24,7 +24,7 @@
     {
       "label": "Gestión de proyectos",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/voltage.png",
         "alt": ""
       }
     },

@@ -9,7 +9,7 @@ module.exports = {
           siteName: "My Help Desk", // Used in manifest.json
           shortName: "GoDesk", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
-          backgroundColor: "#FFFFFF", // Used in manifest.json
+          backgroundColor: "#c8eafd", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },

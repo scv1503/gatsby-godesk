@@ -17,10 +17,10 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <AboutSection sectionId="about" heading="Acerca de GoDesk" />
+        <InterestsSection sectionId="details" heading="Funciones" />
+        <ProjectsSection sectionId="features" heading="Características" />
+        <ContactSection sectionId="github" heading="Precios" />
       </Page>
     </>
   );

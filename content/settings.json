@@ -18,7 +18,7 @@
     "logo": { "text": "GoDesk" },
     "navigation": {
       "header": [
-        { "label": "Inicio", "url": "/#about" },
+        { "label": "Acerca de", "url": "/#about" },
         { "label": "Soluciones", "url": "/#features" },
         { "label": "Precios", "url": "/#github" },
         { "label": "Blog", "url": "/blog" }

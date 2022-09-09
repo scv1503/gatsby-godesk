@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "language": "es",
+    "siteUrl": "https://gatsbygodesk.gatsbyjs.io/",
     "title": "GoDesk Help Desk",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",

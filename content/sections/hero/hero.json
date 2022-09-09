@@ -10,8 +10,8 @@
   },
   "title": "Este es GoDesk",
   "subtitle": {
-    "prefix": "Tu escritorio de soporte",
-    "highlight": " ideal",
+    "prefix": "Tu escritorio de soporte ",
+    "highlight": "ideal",
     "suffix": "."
   },
   "description": "GoDesk es un helpdesk para cuidar tu infraestructura IT",

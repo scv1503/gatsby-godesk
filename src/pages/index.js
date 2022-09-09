@@ -19,7 +19,7 @@ export default function IndexPage() {
         <ArticlesSection sectionId="articles" heading="Ultimos artículos" sources={['Medium']} />
         <AboutSection sectionId="about" heading="Acerca de GoDesk" />
         <InterestsSection sectionId="details" heading="Funciones" />
-        <ProjectsSection sectionId="features" heading="Características" />
+        <ProjectsSection sectionId="features" heading="Funciones" />
         <ContactSection sectionId="github" heading="Precios" />
       </Page>
     </>

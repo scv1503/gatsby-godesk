@@ -16,7 +16,7 @@
   },
   "description": "GoDesk es un helpdesk para cuidar tu infraestructura IT",
   "socialProfiles": {
-    "from": ["Correo", "LinkedIn"],
+    "from": ["Mail", "LinkedIn"],
     "showIcons": false
   }
 }

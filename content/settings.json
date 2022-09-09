@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Portal",
-        "url": "/resume"
+        "url": "https://ticket.hatthor.com.mx/"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

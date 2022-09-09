@@ -22,7 +22,7 @@
         { "label": "Inicio", "url": "/#about" },
         { "label": "Soluciones", "url": "/#features" },
         { "label": "Precios", "url": "/#github" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,

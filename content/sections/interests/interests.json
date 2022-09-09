@@ -10,14 +10,14 @@
     {
       "label": "Gestión de activos",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/joy-stick.png",
         "alt": ""
       }
     },
     {
       "label": "Gestión financiera",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
@@ -31,14 +31,14 @@
     {
       "label": "Administración",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
       "label": "Configuración",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/wrench.png",
         "alt": ""
       }
     }

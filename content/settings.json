@@ -10,7 +10,7 @@
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "linkedin": "https://mx.linkedin.com/company/digiproductnow/",
-      "correo": "mailto:salomon.cruz@digiproduct.com"
+      "mail": "mailto:salomon.cruz@digiproduct.com"
     }
   },
   "siteConfiguration": {

@@ -16,7 +16,7 @@ export default function IndexPage() {
       <Seo title="GoDesk Support System" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
+        <ArticlesSection sectionId="articles" heading="Ultimos artículos" sources={['Medium']} />
         <AboutSection sectionId="about" heading="Acerca de GoDesk" />
         <InterestsSection sectionId="details" heading="Funciones" />
         <ProjectsSection sectionId="features" heading="Características" />
